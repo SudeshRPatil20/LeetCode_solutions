@@ -49,6 +49,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 ## Greedy
 |  |
@@ -78,4 +79,12 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0098-validate-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
