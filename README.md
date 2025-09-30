@@ -49,6 +49,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 ## Greedy
@@ -73,6 +74,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Search Tree
