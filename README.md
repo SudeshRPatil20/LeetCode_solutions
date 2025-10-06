@@ -42,6 +42,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0110-balanced-binary-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
@@ -53,6 +54,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0975-range-sum-of-bst) |
 ## String
@@ -94,6 +96,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0098-validate-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0975-range-sum-of-bst) |
 ## Two Pointers
 |  |
