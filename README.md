@@ -20,6 +20,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0135-candy) |
+| [0219-contains-duplicate-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Hash Table
@@ -27,6 +28,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | ------- |
 | [0049-group-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0219-contains-duplicate-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1502-construct-k-palindrome-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 ## Divide and Conquer
@@ -131,4 +133,8 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0049-group-anagrams) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
