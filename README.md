@@ -76,11 +76,13 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0020-valid-parentheses](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0049-group-anagrams) |
+| [0316-remove-duplicate-letters](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [1502-construct-k-palindrome-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0135-candy) |
+| [0316-remove-duplicate-letters](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [1502-construct-k-palindrome-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 ## Counting
 |  |
@@ -105,6 +107,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | ------- |
 | [0020-valid-parentheses](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0316-remove-duplicate-letters](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -143,4 +146,8 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0219-contains-duplicate-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
