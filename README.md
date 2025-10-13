@@ -22,6 +22,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Hash Table
@@ -31,6 +32,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1502-construct-k-palindrome-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -119,6 +121,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0004-median-of-two-sorted-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0098-validate-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -128,6 +131,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0908-middle-of-the-linked-list) |
 ## String Matching
 |  |
@@ -147,6 +151,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | ------- |
 | [0049-group-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
