@@ -109,6 +109,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0404-sum-of-left-leaves](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0404-sum-of-left-leaves) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0975-range-sum-of-bst) |
+| [1558-course-schedule-iv](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1558-course-schedule-iv) |
 ## Stack
 |  |
 | ------- |
@@ -148,6 +149,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | ------- |
 | [0112-path-sum](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0404-sum-of-left-leaves) |
+| [1558-course-schedule-iv](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1558-course-schedule-iv) |
 ## Sorting
 |  |
 | ------- |
@@ -163,4 +165,12 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
+## Graph
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1558-course-schedule-iv) |
+## Topological Sort
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
