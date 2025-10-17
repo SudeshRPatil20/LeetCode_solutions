@@ -25,6 +25,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0283-move-zeroes](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-construct-k-palindrome-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 ## Divide and Conquer
 |  |
@@ -84,6 +86,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0242-valid-anagram](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-construct-k-palindrome-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 ## Greedy
 |  |
@@ -156,6 +159,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0049-group-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
