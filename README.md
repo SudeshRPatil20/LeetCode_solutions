@@ -30,6 +30,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0219-contains-duplicate-ii) |
@@ -80,6 +81,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0049-group-anagrams) |
@@ -177,4 +179,8 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1558-course-schedule-iv) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
