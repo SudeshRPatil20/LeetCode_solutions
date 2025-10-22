@@ -21,6 +21,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -33,6 +34,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0013-roman-to-integer](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -48,6 +50,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0004-median-of-two-sorted-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Tree
 |  |
@@ -103,6 +106,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0169-majority-element) |
 | [1502-construct-k-palindrome-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Backtracking
@@ -164,6 +168,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0389-find-the-difference) |
