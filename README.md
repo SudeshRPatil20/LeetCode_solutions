@@ -93,6 +93,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0242-valid-anagram](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-construct-k-palindrome-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -194,8 +195,13 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0013-roman-to-integer) |
+| [0415-add-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0389-find-the-difference) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
