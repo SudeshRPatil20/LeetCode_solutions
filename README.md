@@ -29,6 +29,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1025-minimum-cost-for-tickets](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1364-tuple-with-same-product](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1364-tuple-with-same-product) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
@@ -46,6 +47,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1364-tuple-with-same-product](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Divide and Conquer
@@ -113,6 +115,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0169-majority-element) |
+| [1364-tuple-with-same-product](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Backtracking
