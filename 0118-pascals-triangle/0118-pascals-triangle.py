@@ -11,6 +11,7 @@ class Solution:
             res.append(current)
         return res
 
+# we can also solve this by using Recurtion in  O(n) --> assignment must solve before givining interview.
 
 
 
