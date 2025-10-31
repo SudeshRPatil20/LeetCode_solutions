@@ -26,6 +26,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0219-contains-duplicate-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0735-asteroid-collision](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0735-asteroid-collision) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1025-minimum-cost-for-tickets](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -145,6 +146,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0020-valid-parentheses](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0735-asteroid-collision](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -219,6 +221,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0415-add-strings) |
+| [0735-asteroid-collision](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0735-asteroid-collision) |
 ## Dynamic Programming
 |  |
 | ------- |
