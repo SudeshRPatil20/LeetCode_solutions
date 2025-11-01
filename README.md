@@ -175,6 +175,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Breadth-First Search
 |  |
