@@ -72,6 +72,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -88,6 +89,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -138,6 +140,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0098-validate-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0404-sum-of-left-leaves) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0975-range-sum-of-bst) |
@@ -147,6 +150,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | ------- |
 | [0020-valid-parentheses](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
