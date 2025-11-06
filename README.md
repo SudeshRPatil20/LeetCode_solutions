@@ -26,6 +26,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0219-contains-duplicate-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0735-asteroid-collision](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0735-asteroid-collision) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -197,6 +198,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0242-valid-anagram](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sliding Window
 |  |
