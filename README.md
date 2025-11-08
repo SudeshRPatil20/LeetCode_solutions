@@ -254,4 +254,8 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
