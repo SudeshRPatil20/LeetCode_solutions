@@ -12,3 +12,4 @@ class Solution:
         return [next_gretor[num] for num in nums1]
 
 # most imp question asked in AWS, Google, Netflix, Meta, Paypal.
+#must must must do this by your own to test your skills.
