@@ -31,6 +31,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0350-intersection-of-two-arrays-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0735-asteroid-collision](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0735-asteroid-collision) |
 | [0837-most-common-word](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0837-most-common-word) |
@@ -58,6 +59,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0389-find-the-difference](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0837-most-common-word) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -166,6 +168,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0094-binary-tree-inorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Search Tree
@@ -230,6 +233,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 ## Graph
 |  |
 | ------- |
