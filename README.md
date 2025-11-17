@@ -204,6 +204,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Breadth-First Search
 |  |
@@ -284,4 +285,8 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0178-rank-scores) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
