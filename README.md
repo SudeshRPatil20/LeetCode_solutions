@@ -249,6 +249,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0029-divide-two-integers) |
 | [0415-add-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0415-add-strings) |
