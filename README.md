@@ -89,6 +89,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0144-binary-tree-preorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -106,6 +107,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0144-binary-tree-preorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -183,6 +185,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0975-range-sum-of-bst) |
