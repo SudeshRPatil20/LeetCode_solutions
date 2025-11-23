@@ -255,6 +255,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0009-palindrome-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0029-divide-two-integers) |
+| [0258-add-digits](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
@@ -264,6 +265,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0735-asteroid-collision) |
 ## Dynamic Programming
@@ -294,4 +296,8 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
