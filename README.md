@@ -57,6 +57,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0242-valid-anagram](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -125,6 +126,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0205-isomorphic-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -143,6 +145,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0837-most-common-word) |
 | [1364-tuple-with-same-product](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1364-tuple-with-same-product) |
