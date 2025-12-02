@@ -42,6 +42,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1364-tuple-with-same-product) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -137,6 +138,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-construct-k-palindrome-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Greedy
 |  |
@@ -212,6 +214,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
 |  |
@@ -289,14 +292,17 @@ The goal of this repo is to document my problem-solving journey, improve consist
 ## Trie
 |  |
 | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
 | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Database
 |  |
