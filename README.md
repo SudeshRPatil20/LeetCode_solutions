@@ -52,6 +52,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0205-isomorphic-strings) |
@@ -203,6 +204,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0015-3sum](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0344-reverse-string) |
@@ -220,6 +222,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Breadth-First Search
