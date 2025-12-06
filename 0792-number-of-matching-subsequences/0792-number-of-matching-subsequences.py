@@ -1,6 +1,6 @@
 class Solution:
     def numMatchingSubseq(self, s: str, words: List[str]) -> int:
-        cache = {}     # memoization cache
+        cache = {}    
         count = 0
 
         def is_subseq(w):
