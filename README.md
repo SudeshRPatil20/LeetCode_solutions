@@ -35,6 +35,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0594-longest-harmonious-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0735-asteroid-collision) |
+| [0792-number-of-matching-subsequences](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0837-most-common-word](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0837-most-common-word) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -66,6 +67,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0792-number-of-matching-subsequences](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0837-most-common-word](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0837-most-common-word) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -136,6 +138,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0392-is-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0792-number-of-matching-subsequences](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0837-most-common-word](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0837-most-common-word) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-construct-k-palindrome-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -198,6 +201,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0701-insert-into-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0792-number-of-matching-subsequences](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0975-range-sum-of-bst](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0975-range-sum-of-bst) |
 ## Two Pointers
 |  |
@@ -245,6 +249,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0389-find-the-difference](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0792-number-of-matching-subsequences](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sliding Window
 |  |
@@ -293,11 +298,13 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0118-pascals-triangle](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0392-is-subsequence) |
+| [0792-number-of-matching-subsequences](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1025-minimum-cost-for-tickets) |
 ## Trie
 |  |
 | ------- |
+| [0792-number-of-matching-subsequences](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
