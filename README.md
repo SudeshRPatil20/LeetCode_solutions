@@ -138,6 +138,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0392-is-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0541-reverse-string-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0837-most-common-word](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0837-most-common-word) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -217,6 +218,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0908-middle-of-the-linked-list) |
 ## String Matching
 |  |
