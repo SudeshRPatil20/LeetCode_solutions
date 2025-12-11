@@ -223,6 +223,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0350-intersection-of-two-arrays-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0541-reverse-string-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0908-middle-of-the-linked-list) |
 ## String Matching
 |  |
@@ -237,6 +238,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0160-intersection-of-two-linked-lists](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Breadth-First Search
 |  |
