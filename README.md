@@ -90,6 +90,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
@@ -108,6 +109,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
@@ -174,6 +176,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -243,6 +246,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0404-sum-of-left-leaves) |
 | [1558-course-schedule-iv](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1558-course-schedule-iv) |
