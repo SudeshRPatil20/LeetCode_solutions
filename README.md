@@ -64,6 +64,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -140,6 +141,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0344-reverse-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0415-add-strings) |
@@ -164,6 +166,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | ------- |
 | [0169-majority-element](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0837-most-common-word) |
 | [1364-tuple-with-same-product](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1364-tuple-with-same-product) |
@@ -354,4 +357,8 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1122-relative-sort-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
