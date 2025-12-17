@@ -1,5 +1,8 @@
 class Solution:
     def thirdMax(self, nums: List[int]) -> int:
+        #without inbuild function
+
+        # with inbuild function  
         if len(nums) <= 2:
             return max(nums)
 
