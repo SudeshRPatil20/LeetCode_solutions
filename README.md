@@ -27,6 +27,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0169-majority-element](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0414-third-maximum-number) |
@@ -211,6 +212,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0004-median-of-two-sorted-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0098-validate-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -229,6 +231,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0202-happy-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -308,6 +311,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0029-divide-two-integers) |
+| [0287-find-the-duplicate-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
