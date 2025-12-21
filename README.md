@@ -34,6 +34,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0735-asteroid-collision) |
 | [0792-number-of-matching-subsequences](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0792-number-of-matching-subsequences) |
@@ -72,6 +73,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0645-set-mismatch) |
 | [0792-number-of-matching-subsequences](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0837-most-common-word](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0837-most-common-word) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -275,6 +277,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0389-find-the-difference](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0645-set-mismatch) |
 | [0792-number-of-matching-subsequences](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1122-relative-sort-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1122-relative-sort-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -313,6 +316,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0029-divide-two-integers](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
