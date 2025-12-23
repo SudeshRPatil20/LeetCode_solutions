@@ -25,6 +25,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0119-pascals-triangle-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
@@ -230,6 +231,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0283-move-zeroes) |
@@ -307,6 +309,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0009-palindrome-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0415-add-strings) |
