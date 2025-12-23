@@ -245,6 +245,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0876-middle-of-the-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0917-reverse-only-letters) |
+| [2396-strictly-palindromic-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
 ## String Matching
 |  |
 | ------- |
@@ -313,6 +314,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0202-happy-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0415-add-strings) |
+| [2396-strictly-palindromic-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -375,4 +377,8 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
