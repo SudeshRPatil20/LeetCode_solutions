@@ -228,6 +228,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -255,6 +256,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
