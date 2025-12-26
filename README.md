@@ -48,6 +48,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1364-tuple-with-same-product) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1929-concatenation-of-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1929-concatenation-of-array) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
@@ -333,6 +334,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0258-add-digits](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
