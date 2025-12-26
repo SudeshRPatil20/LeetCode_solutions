@@ -42,6 +42,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0837-most-common-word](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0837-most-common-word) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0977-squares-of-a-sorted-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1122-relative-sort-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1122-relative-sort-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -246,6 +247,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0876-middle-of-the-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
 ## String Matching
 |  |
@@ -284,6 +286,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0594-longest-harmonious-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0645-set-mismatch) |
 | [0792-number-of-matching-subsequences](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0792-number-of-matching-subsequences) |
+| [0977-squares-of-a-sorted-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1122-relative-sort-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sliding Window
