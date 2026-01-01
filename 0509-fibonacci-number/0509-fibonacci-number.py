@@ -25,7 +25,7 @@ class Solution:
         #     return diry[n]
         # return fib_helper(n)
 
-    # if more optimize than use botom up approach memorization
+    # if more optimize than use botom up approach tabulation
         if n <= 1:
             return n
         
