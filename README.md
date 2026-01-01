@@ -320,6 +320,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0202-happy-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0415-add-strings) |
+| [0509-fibonacci-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 | [2396-strictly-palindromic-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
@@ -342,6 +343,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | [0118-pascals-triangle](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 | [0792-number-of-matching-subsequences](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -372,6 +374,7 @@ The goal of this repo is to document my problem-solving journey, improve consist
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -388,4 +391,8 @@ The goal of this repo is to document my problem-solving journey, improve consist
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SudeshRPatil20/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
